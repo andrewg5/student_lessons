@@ -6,4 +6,4 @@ hide: true
 ---
 
 My journey starts here.
-Hi
+frist commit
